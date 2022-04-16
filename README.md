@@ -7,3 +7,6 @@
 <a href="https://t.me/1Psychokiller"><img title="Version" src="https://img.shields.io/badge/Version-3.1-green.svg?style=flat-square"></a>
 <p align="center">
 
+</p>
+<p align="center">
+<a href="https://github.com/1Psychokiller"><img title="Github" src="https://telegra.ph/file/378f4d3c39a358d3cf28d.jpg"></a>
