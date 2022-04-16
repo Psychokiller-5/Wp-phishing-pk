@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-<a href="https://t.me/1Psychokiller"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Wp-phishing-pk-green.svg"></a>
 <a href="https://t.me/1Psychokiller"><img title="Version" src="https://img.shields.io/badge/Version-3.1-green.svg?style=flat-square"></a>
 <p align="center">
 
