@@ -20,7 +20,7 @@
     git clone https://github.com/1Psychokiller/Wp-phishing-pk
     cd Wp-phishing-pk
     ls
-    python social.py
+    python Wp-phishing.py
     
 <a href="https://github.com/1Psychokiller"><img title="Github" src="https://telegra.ph//file/b71b7157ca1d1b15b6d0a.jpg"></a>
   
@@ -31,7 +31,7 @@
     git clone https://github.com/1Psychokiller/Wp-phishing-pk
     cd Wp-phishing-pk
     ls
-    python social.py
+    python Wp-phishing.py
 
 
 <a href="https://github.com/1Psychokiller"><img title="Github" src="https://telegra.ph//file/069f94cfee20ad6d81e87.jpg"></a>
