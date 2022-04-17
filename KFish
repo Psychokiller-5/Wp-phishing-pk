@@ -1,3 +1,0 @@
-#! /bin/bash
-cd /data/data/com.termux/files/home/kingfish3
-python3 fsh.py
