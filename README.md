@@ -8,7 +8,6 @@
 <a href="https://t.me/1Psychokiller"><img title="Author" src="https://img.shields.io/badge/Author-Psychokiller--Kcw-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
-
 </p>
 <p align="center">
 <a href="https://github.com/1Psychokiller"><img title="Github" src="https://telegra.ph/file/378f4d3c39a358d3cf28d.jpg"></a>
